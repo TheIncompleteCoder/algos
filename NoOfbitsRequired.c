@@ -54,3 +54,12 @@ j++;
 count = max - count;
 return count;
 }
+
+
+
+sample:
+i/p : 31
+o/p : 5i
+
+/p : 32
+o/p : 6
