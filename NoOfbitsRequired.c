@@ -59,7 +59,7 @@ return count;
 
 sample:
 i/p : 31
-o/p : 5i
+o/p : 5
 
 /p : 32
 o/p : 6
