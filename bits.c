@@ -40,7 +40,7 @@ array[j] = remainder;// store that remainder in to the array from the end.
 j--;
 }
 
-// for debugging...
+// for checking........
 //for(i=max;i>0;i--)
 //printf("%d\n",array[i]);
 
